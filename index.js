@@ -1,4 +1,4 @@
-/**
+/**lol
  * Don't change these constants!
  */
 const DODGER = document.getElementById('dodger')
